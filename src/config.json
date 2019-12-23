@@ -1,0 +1,5 @@
+{
+  "api": { 
+    "invokeUrl": "https://smhxnlk565.execute-api.us-east-1.amazonaws.com/stage4"
+  } 
+}
